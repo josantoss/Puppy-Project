@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px) {
+    body {
+    background-color: olive;
+    }
+}
+body {
+    background-color: tan;
+}
+/* @media screen and (max-width: 992px) {
+    body {
+    background-color: blue;
+    } */
+@media (min-width:450px
+){
+    
+}
+
+*{box-sizing: border-box;}
+body{font-family: 'Roboto Condensed', sans-serif;}
+
+/* .fixed-container{margin-left: auto;
+margin-right:auto;background-color: white;} */
+.Puppy{background-color:#195774;display: block;font-size: larger;color: white;}
+.One-Puppy{background-color: darkgreen;}
+.Puppies{display: flex;justify-content: space-between;margin: 50px auto;width: 960px;; }
+#text{background-color: #EE4D65;text-align: center;width: 305px;height: 305px;border:5px dashed violet;}
+.Two-Puppies{background-color: chartreuse;display: flex;}
+#Developer{background-color: gold;font-size: 40px;}
+#Developer:hover{background-color: blueviolet;}
+#show{background-color: rgb(20, 150, 220);font-size: large;}
+/* #Puppy-3{font-size: 0.5rem;} */
+/* #Puppy-4{j}  */
+/* #Puppy-1{position:fixed;top:0px;} 
+#Puppy-1,#text p,#Puppy-2{width: 33.3%;}
+/* #Puppy-1 img,#text p,#Puppy-2 img{width:100%;} */
+img:hover{width: 50%;}
+img{max-width: 100%;}
+/* .Puppies{margin:50px;width:310px;
+height: 310px;} */
+#text p{font-size: 60px;background-image: url(../images/puppy-1.jpg);background-size: cover;}
+span{ color:blue}
